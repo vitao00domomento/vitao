@@ -34,12 +34,12 @@
   <main style="max-width:700px; margin:40px auto; padding:20px;">
 <!-- Digite aqui abaixo nas tags <p> o seu texto sobre sua página e sobre você -->
 <h2>Sobre o Projeto</h2>
-<p>TEXTO SOBRE O PROJETO 1º PARÁGRAFO</p>
-<p>TEXTO SOBRE O PROJETO 2º PARÁGRAFO</p>
+<p>GitHub é uma plataforma de desenvolvimento colaborativo baseada em nuvem que permite a hospedagem e o controle de versões de projetos de software. Ele foi criado em 2008 e se tornou uma das ferramentas mais populares para desenvolvedores ao redor do mundo. GitHub é essencialmente uma interface visual para o sistema de controle de versões Git, que permite a rastreabilidade e gerenciamento de alterações em códigos-fonte.
+<p>GitHub é baseado no Git, um sistema de controle de versões distribuído. Isso significa que cada colaborador tem uma cópia local do repositório e pode fazer alterações sem interferir diretamente no trabalho dos outros. Mais tarde, essas alterações podem ser enviadas para o repositório centralizado.
     
 <h2>Sobre o Autor</h2>
-<p>TEXTO SOBRE VOCÊ 1º PARÁGRAFO</p>
-<p>TEXTO SOBRE VOCÊ 2º PARÁGRAFO</p>
+eu sou aquele tipo de pessoa que, de vez em quando, se perde nos próprios pensamentos e acaba esquecendo o que estava fazendo no meio do caminho. Às vezes parece que a atenção não é meu ponto forte, mas, quando me foco em algo, dou o meu melhor. Sou muito esforçado, e não desisto fácil. Gosto de aprender com os erros e sempre tento melhorar. Mesmo quando a cabeça está em mil lugares, sempre busco dar o meu melhor em tudo que me proponho a fazer.
+sou um cara muito pasiente e esfocado mais quero focar mais em mim e tentar fazer um faculdade para dar orgulho a minha familia.
   <p style="margin-top:30px;">
       <a href="index.html" style="text-decoration:none;">← Voltar para a página inicial</a>
     </p>
